@@ -36,6 +36,7 @@ while True:
 
 print("Total wins you got" ,user_win)
 print("Total computer wins are ", computer_win)
+print("Good Bie")
 
         
 
